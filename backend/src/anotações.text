@@ -1,0 +1,5 @@
+Index : quando quero mostrar uma lista de recurso 
+Show : quando quero mostrar um unico
+Store : quando quero criar
+Update : quando quero alterar
+Destroy : quando quero deletar
